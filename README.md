@@ -3,9 +3,10 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"> :construction: Proyecto en construcción :construction:
    </p>
 
-   ##Índice
+   ## Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
+
 
 *[Insignias](#insignias)
 
@@ -28,11 +29,11 @@
 
 ## 📁 Acceso al proyecto
 
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+- https://github.com/didiermorantes/challenge-amigo-secreto-alura/
 
 ## 🛠️ Abre y ejecuta el proyecto
 
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+- https://didiermorantes.github.io/challenge-amigo-secreto-alura/
 
 
 
