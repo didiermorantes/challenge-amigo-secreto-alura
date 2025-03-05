@@ -3,6 +3,8 @@
    <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"> :construction: Proyecto en construcción :construction:
    </p>
 
+   ![Muestra de la Aplicacion](https://raw.githubusercontent.com/didiermorantes/challenge-amigo-secreto-alura/refs/heads/gh-pages/assets/muestra.gif)
+
    ##Índice
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
