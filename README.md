@@ -9,6 +9,9 @@
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
 
+*[Título e imagen de portada](#Título-e-imagen-de-portada)
+   ![Badge Desafío Amigo Secreto](https://raw.githubusercontent.com/didiermorantes/challenge-amigo-secreto-alura/refs/heads/main/assets/badgeDesafioAmigoSecreto.png)
+
 *[Insignias](#insignias)
 
 *[Índice](#índice)
